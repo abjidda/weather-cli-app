@@ -17,4 +17,5 @@ pip install -r requirements.txt
 2. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api) and replace `YOUR_API_KEY` in `weather.py`.
 
 3. Run the app:
+
 python weather.py
